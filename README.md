@@ -14,4 +14,5 @@ To get started with GoLang basics, follow these steps:
 2. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/golang-basics.git
+   git clone https://github.com/Naba-cloud/Naba-cloud/GoLang.git
+
