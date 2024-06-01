@@ -13,6 +13,6 @@ To get started with GoLang basics, follow these steps:
 1. Ensure Go is installed on your system. If not, download and install it from the [official Go website](https://golang.org/).
 2. Clone this repository to your local machine:
 
-   ```bash
-   git clone [https://github.com/Naba-cloud/Naba-cloud/GoLang.git](https://github.com/Naba-cloud/GoLang.git)
+  
+   git clone https://github.com/Naba-cloud/Naba-cloud/GoLang.git
 
